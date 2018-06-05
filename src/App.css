@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.canvas{
+  display: table;
+  width: 105px;
+  height: 70px;
+  background-color: #000;
+  color: #fff;
+  margin: 0 auto;
+  font-size: 20px;
+  text-align: center;
+  vertical-align: middle;
+  overflow: hidden;
+}
+
+.canvas-text{
+  width: 101px;
+  height: 66px;
+  overflow: hidden;
+  margin: 5px;
+  display: table-cell;
+    vertical-align: middle;
+}
